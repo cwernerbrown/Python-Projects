@@ -1,5 +1,3 @@
-# Option 2: Create a word or letter counter (lower and uppercase vowels)
-
 # This program is a letter counter for the number of lowercase and uppercase vowels within a string
 # For this task, an extract of the poem 'Jabberwocky' by L. Carroll (1871) has been used as the string
 
